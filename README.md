@@ -1,5 +1,4 @@
-
-#00599C 
+<img src="https://img.shields.io/badge/#00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
 <!--
 **Eno97p/Eno97p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
