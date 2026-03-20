@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/DirectX-00599C?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/DirectX-00599C?style=flat-square&logo=nvidia&logoColor=white"/>
 
 <!--
 **Eno97p/Eno97p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
